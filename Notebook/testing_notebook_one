@@ -1,1 +1,13 @@
 # Hi This is a Teting notebook one.
+
+!pip install holidays
+
+e = first_function()
+
+def first_function():
+    '''The first function of NB '''
+    a = 5
+    b = 2
+    c  = addition(a,b)
+    print("c: ",c)
+    return c
