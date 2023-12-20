@@ -1,0 +1,1 @@
+from .test2_for_prophecy import *
